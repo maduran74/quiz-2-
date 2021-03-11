@@ -1,0 +1,4 @@
+1a: asociasion 
+2b: porque una estrella puede tener 0 o mas planetas, pero un planeta solo puede orbitar una estrella
+3a: porque el elemto astro no existe
+4a: agregacion
